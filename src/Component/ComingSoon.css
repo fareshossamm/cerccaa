@@ -5,7 +5,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 50vh;
+  height: 95vh;
   padding: 0 20px;
 }
 
@@ -148,6 +148,9 @@
 }
 
 @media (max-width: 768px) {
+  .coming-soon-section{
+    height: 60vh;
+  }
   /* Coming Soon Content */
   .coming-soon-content {
     margin: 50px 20px;
