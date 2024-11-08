@@ -16,7 +16,7 @@
   /* Hero Content */
   .hero-content {
     max-width: 950px;
-    padding: 20px;
+    padding: 10px;
     z-index: 1;
   }
   
@@ -35,7 +35,7 @@
   .hero-subtitle {
     font-size: 22px; 
     font-weight: 400;
-    margin-bottom: 30px;
+    margin-bottom: 015x;
     opacity: 0.9;
     line-height: 1.6;
     color: #e1e1e1; /* Light text for readability on dark background */

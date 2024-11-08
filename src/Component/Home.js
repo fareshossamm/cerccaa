@@ -15,6 +15,7 @@ function HeroSection() {
 
   return (
     <section className="hero-section">
+      
       <div className="hero-content">
         {/* Apply AOS animation for fade-in and slide-up */}
         <h1 className="hero-title" data-aos="fade-left">
@@ -26,8 +27,13 @@ function HeroSection() {
           Get ready to level up your wardrobe! 🔥🧥
         </p>
         {/* <a href="#shop-now" className="cta-button">Shop the Collection 🛍️</a> */}
+
       </div>
+
+      
     </section>
+    
+    
   );
 }
 
